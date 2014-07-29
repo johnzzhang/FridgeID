@@ -1,0 +1,13 @@
+c:\users\b-gegrin\documents\visual studio 2012\Projects\App1\App1\bin\Debug\resources.pri
+c:\users\b-gegrin\documents\visual studio 2012\Projects\App1\App1\bin\Debug\AppxManifest.xml
+c:\users\b-gegrin\documents\visual studio 2012\Projects\App1\App1\bin\Debug\FridgeID.build.appxrecipe
+c:\users\b-gegrin\documents\visual studio 2012\Projects\App1\App1\bld\Debug\priconfig.xml
+c:\users\b-gegrin\documents\visual studio 2012\Projects\App1\App1\bld\Debug\layout.resfiles
+c:\users\b-gegrin\documents\visual studio 2012\Projects\App1\App1\bld\Debug\resources.resfiles
+c:\users\b-gegrin\documents\visual studio 2012\Projects\App1\App1\bld\Debug\pri.resfiles
+c:\users\b-gegrin\documents\visual studio 2012\Projects\App1\App1\bld\Debug\LanguageQualifiers.txt
+c:\users\b-gegrin\documents\visual studio 2012\Projects\App1\App1\bld\Debug\ProjectArchitectures.txt
+C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\bld\Debug\priconfig.xml.intermediate
+C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\bld\Debug\layout.resfiles.intermediate
+C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\bld\Debug\resources.resfiles.intermediate
+C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\bld\Debug\pri.resfiles.intermediate

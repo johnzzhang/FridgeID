@@ -1,0 +1,21 @@
+﻿body {
+    padding: 10px;
+}
+
+#header {
+    padding: 10px;
+    width: 200px;
+    height: auto;
+}
+
+#lvProducts {
+    height: 600px;
+    width: 253px;
+}
+
+#lvProducts .productItem {
+    border: solid 1px white;
+    padding: 10px;
+    width: 200px;
+    height: 60px;
+}

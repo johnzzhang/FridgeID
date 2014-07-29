@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GEGRIN-PC</Machine>
+    <WindowsUser>b-gegrin</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>1ABC0D73325B35D940AC27C75C8E67BE4B6A02038E29F040177C8B27D36DDEF8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4556ed44-36da-47d8-ab67-9d14c411c3ec_1.0.0.0_neutral__1f6jhtxwcgkdm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4556ed44-36da-47d8-ab67-9d14c411c3ec_1f6jhtxwcgkdm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4556ed44-36da-47d8-ab67-9d14c411c3ec</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=b-gegrin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-29T17:49:23.033</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-07-29T19:06:09.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\header.png">
+      <PackagePath>images\header.png</PackagePath>
+      <Modified>2014-07-29T17:44:42.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-05T06:44:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-05T06:44:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-05T06:44:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-05T06:44:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-07-29T18:53:47.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-07-29T18:51:33.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-29T17:49:22.986</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

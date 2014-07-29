@@ -1,5 +1,6 @@
 ﻿body {
     padding: 10px;
+    background-color: #4F81BD;
 }
 
 #header {
@@ -9,8 +10,6 @@
 }
 
 #lvProducts {
-    height: 600px;
-    width: 253px;
 }
 
 #lvProducts .productItem {

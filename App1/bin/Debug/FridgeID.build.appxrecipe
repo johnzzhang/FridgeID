@@ -7,41 +7,44 @@
     <PackageArchitecture>neutral</PackageArchitecture>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\default.html">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\header.png">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\images\header.png">
       <PackagePath>images\header.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\js\default.js">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\js\default.js">
       <PackagePath>js\default.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\css\default.css">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\js\myDataSource.js">
+      <PackagePath>js\myDataSource.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

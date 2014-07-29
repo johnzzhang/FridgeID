@@ -36,8 +36,48 @@
             data-win-options="{
             itemTemplate: select('#tmplProduct'),
             groupHeaderTemplate: select('#tmplProductGroupHeader'),
-            layout: { type: WinJS.UI.ListLayout }
+            selectionMode: 'single'
     }"></div>
+
+    <!-- Flyout Control -->
+    <div id="flyAdd"
+        data-win-control="WinJS.UI.Flyout">
+        <form id="frmAdd">
+            <label>
+                New Task:
+                <input id="inputTaskName" required />
+            </label>
+            <button>Add</button>
+    </form>
+    </div>
+
+
+    <!-- AppBar Control -->
+    <div id="appBar1"
+        data-win-control="WinJS.UI.AppBar">
+        <button data-win-control="WinJS.UI.AppBarCommand" 
+            data-win-options="{
+                id:'cmdAdd',
+                label:'Add',
+                icon:'add',
+                tooltip:'Add Task',
+                type: 'flyout',
+                flyout: select('#flyAdd'),
+                section: 'global'
+            }">
+        </button>
+        <button data-win-control="WinJS.UI.AppBarCommand" 
+            data-win-options="{
+                id:'cmdDelete',
+                label:'Delete',
+                icon:'delete',
+                tooltip:'Delete Task',
+                section: 'selection',
+                extraClass:'appBarSelection'
+            }">
+        </button>
+    </div>
+
 
 </body>
 </html>

@@ -13,52 +13,56 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-07-29T17:49:23.033</Modified>
+      <Modified>2014-07-29T19:58:54.412</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\default.html">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2014-07-29T19:06:09.956</Modified>
+      <Modified>2014-07-29T19:50:51.509</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\header.png">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\images\header.png">
       <PackagePath>images\header.png</PackagePath>
       <Modified>2014-07-29T17:44:42.094</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-06-05T06:44:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-06-05T06:44:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-06-05T06:44:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-06-05T06:44:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\js\default.js">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2014-07-29T18:53:47.531</Modified>
+      <Modified>2014-07-29T19:59:43.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\css\default.css">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\js\myDataSource.js">
+      <PackagePath>js\myDataSource.js</PackagePath>
+      <Modified>2014-07-29T20:00:29.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2014-07-29T18:51:33.893</Modified>
+      <Modified>2014-07-29T19:41:03.510</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\b-gegrin\Documents\Visual Studio 2012\Projects\FridgeID\App1\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-07-29T17:49:22.986</Modified>
+      <Modified>2014-07-29T19:58:54.312</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
